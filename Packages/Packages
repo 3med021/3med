@@ -1,0 +1,16 @@
+Package: scp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: anonymous
+Installed-Size: 131
+Pre-Depends: dpkg (>= 1.14.25-8)
+Provides: scp
+Filename: ./debs/scp/scp_1.0_iphoneos-arm.deb
+Size: 38704
+MD5sum: c18d207defe98cf3d534d475e9136e8b
+SHA1: e3f75da080f994dfec03c9a06f38981dd2a5449b
+SHA256: 75863c6b984591032cfa1eab57bce13525ba899fcf490241e1e55b7bfa09b64a
+Section: Administration
+Priority: Standard
+Description: scp
+Tag: purpose::console, role::developer
